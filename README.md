@@ -1,5 +1,5 @@
- ## Ola! Me chama Matheus Conzatti 
-- 🌱 Estudando com as linguagens C, C++ e Mysql.
+  Ola! Me chama Matheus Conzatti  👋
+- 🌱 Estudando com as linguagens C, C ++ e Mysql.
 - 👯 Estou procurando colborar em como desenvolver codigos, onde pessoas estão com dificuldade de achar.
 - 🤔 Estou procurando ajuda em aprender outras formas de programar.
 
