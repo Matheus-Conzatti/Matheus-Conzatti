@@ -4,10 +4,6 @@
 - 🤔 Estou procurando ajuda em aprender outras  linguage.
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android e CSS.
 
-<div>
-<img src="https://count.getloli.com/get/@:Matheus-Conzatti" alt=":Matheus-Conzatti" />
-</div>
-
 ![:Matheus-Conzatt](https://count.getloli.com/get/@:Matheus-Conzatti)
 
 <div>
