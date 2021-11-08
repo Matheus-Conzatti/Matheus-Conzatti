@@ -1,10 +1,15 @@
   Ola! Me chama Matheus Conzatti  👋
+  
+ <p>
+     <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34"/><a>
+</p>
+       
+<p align="left"><img src="https://komarev.com/ghpvc/?username=Matheus-Conzatti=Profile%20color=129e00&style=plastic" alt="Matheus-Conzatti"/></p> 
+ 
 - 🌱 Estudando com as linguagens C, C++ e Mysql.
 - 👯 Estou procurando colborar em como desenvolver codigos, onde pessoas estão com dificuldade de achar.
 - 🤔 Estou procurando ajuda em aprender outras  linguage.
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android e CSS.
-
-![:Matheus-Conzatt](https://count.getloli.com/get/@:Matheus-Conzatti)
 
 <div>
   <a href="https://github.com/Matheus-Conzatti">
