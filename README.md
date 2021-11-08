@@ -5,6 +5,10 @@
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android e CSS.
 
 <div>
+<img src="https://count.getloli.com/get/@:Matheus-Conzatti" alt=":Matheus-Conzatti" />
+</div>
+
+<div>
   <a href="https://github.com/Matheus-Conzatti">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Conzatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Conzatti&layout=compact&langs_count=7&theme=tokyonight" />
