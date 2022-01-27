@@ -1,4 +1,4 @@
-# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Olá<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p>
   <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
@@ -6,22 +6,28 @@
  </p>
   
   
-  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeIzSaiPranav&label=Profile%20views&color=129e00&style=plastic" alt="MeIzSaiPranav" /> </p>
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=Matheus-Conzatti&label=Profile%20views&color=129e00&style=plastic" alt="Matheus-Conzatti" /> </p>
 
 
-<img align="center" src="about.png?raw=true"/>
+# About Me:
 
-- 🌱 Estudando com as linguagens C++.
+- 🔭 Estudando com as linguagens C++.
+- 🌱 Em busca de mais conhecimentos.
 - 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
-- 🤔 Em busca de mais conhecimentos.
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL .
+-->
 
 <p align="center">
-<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+PigasusXTeam%E2%9D%A4%EF%B8%8F">
+<img src="https://readme-typing-svg.herokuapp.com/?color=F77247&width=420&lines=+Computer+engineer+passionate+for+technology%E2%9C%8C%EF%B8%8F;Student+at+PUCPR%E2%9D%A4%EF%B8%8F">
 </p>
 
-<a href="https://instagram.com/matheus_conzatti/"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
-  <a href="https://github.com/Matheus-Conzatti/">
+</a>
+  <a href="https://instagram.com/matheus_conzatti/">
+    <img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  </a>
+  
+ </a>
+  <a href="https://github.com/Matheus-Conzatti">
     <img src="https://img.shields.io/github/followers/Matheus-Conzatti?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 <div align="center">
@@ -53,23 +59,20 @@
 
 
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/Matheus-Conzatti/Matheus-Conzatti/blob/main/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!<img align="center" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/Handshake.gif" height="33px" /></h3>
 <center>
  <a href="teteusconzatti@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
+</center>
 </div>    
 
-<a href="https://github.com/Matheus-Conzatti"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeIzSaiPranav&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/MeIzSaiPranav"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Matheus-Conzatti&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/Matheus-Conzatti/Matheus-Conzatti/blob/main/gifs/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
 
 
-
-
-<img align="center" src="./assets/git.png?raw=true"/>
-
-![Matheus-Conzatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Conzatti&show_icons=true&theme=synthwave)
+![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Conzatti&show_icons=true&theme=synthwave)
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Conzatti&theme=tokyonight"/>
         <img width="99%" src="https://github-profile-trophy.vercel.app/?username=Matheus-Conzatti&row=1&theme=darkhub"/>
