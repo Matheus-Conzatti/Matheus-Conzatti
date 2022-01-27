@@ -1,48 +1,78 @@
-  Ola! Me chama Matheus Conzatti de Souza 👋
- 
-- 🌱 Estudando com as linguagens C, C++ e Mysql.
-- 👯 Estou procurando colborar em como desenvolver codigos, onde pessoas estão com dificuldade de achar.
-- 🤔 Estou procurando ajuda em aprender outras  linguage.
-- 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android e CSS.
+# <img src="https://i.pinimg.com/originals/01/63/6c/01636c5434cd0462086620c60fdfec16.gif" width="50px"> Hello<img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 
 <p>
-     <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34"/><a>
+  <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34" /></a>
+    <img src="https://weather-icon.journeyad.repl.co/@Chennai?v=1" align="right">
+ </p>
+  
+  
+  <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeIzSaiPranav&label=Profile%20views&color=129e00&style=plastic" alt="MeIzSaiPranav" /> </p>
+
+
+<img align="center" src="./assets/about.png?raw=true"/>
+
+- 🌱 Estudando com as linguagens C++.
+- 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
+- 🤔 Em busca de mais conhecimentos.
+- 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL .
+
+<p align="center">
+<img src="https://readme-typing-svg.herokuapp.com?color=F77247&width=420&lines=A+Passionate+Developer+From+India%E2%9C%8C%EF%B8%8F;Working+In+PigasusXTeam%E2%9D%A4%EF%B8%8F">
 </p>
 
-<div>
-  <a href="https://github.com/Matheus-Conzatti">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Matheus-Conzatti&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Conzatti&layout=compact&langs_count=7&theme=tokyonight" />
+<a href="https://instagram.com/matheus_conzatti/"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
+  <a href="https://github.com/Matheus-Conzatti/">
+    <img src="https://img.shields.io/github/followers/MeIzSaiPranav?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+  </a>
+<div align="center">
+    <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/flags/hd/iranparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/asyncparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/exceptionallyfastparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/60fpsparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/jumpingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/opensourceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/dealwithitnowparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotlight.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/databaseparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/fixparrot.gif" width="36" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/laptop_parrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/spinningparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/levitationparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/meldparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/slomoparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/moonwalkingparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/stableparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/scienceparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/pirateparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/footballparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
+    <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
 </div>
-  
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Matheus-Conzatti)](https://github.com/anuraghazra/github-readme-stats)
- ### O que estou aprendo:
-<div style="display: inline_block"><br>
-  <img align="center" alt="Mat-C++" height="30" width="40" 	src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" />
-</div>
-  
- ##
-  
- ### O que tenho de conhecimento:
-<div style="display: inline_block"><br>
-  <img aling="center" alt="Mat-Python" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" />
-  <img align="center" alt="Mat-Java" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" />
-  <img align="center" alt="Mat-Html" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" />
-  <img align="center" alt="Mat-Php" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" />
-  <img align="center" alt="Mat-And" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/android/android-original.svg" />
-  <img align="center" alt="Mat-Css" heigth="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" />
-  <img align="center" alt="Mat-C" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
-  <img align="center" alt="Mat-MySql" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-plain.svg" />
-</div>
-  
-  ##
- 
-  ### Canal de comunicação:
-<div> 
- <a href = "teteusconzatti@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
- <a href="https://instagram.com/matheus_conzatti/"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
 
-  
- ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
-  
-</div>
+
+<div align="center">
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/Handshake.gif" height="33px" /></h3>
+<center>
+ <a href="teteusconzatti@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
+</center>
+</div>    
+
+<a href="https://github.com/MeIzSaiPranav"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeIzSaiPranav&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+
+
+<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
+
+
+
+
+<img align="center" src="./assets/git.png?raw=true"/>
+
+![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeIzSaiPranav&show_icons=true&theme=synthwave)
+
+<img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Conzatti&theme=tokyonight"/>
+        <img width="99%" src="https://github-profile-trophy.vercel.app/?username=Matheus-Conzatti&row=1&theme=darkhub"/>
+    </a>
+</p>
+
