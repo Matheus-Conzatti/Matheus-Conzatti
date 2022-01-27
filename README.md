@@ -9,6 +9,7 @@
      <a href="https://count.getloli.com"><img src="https://count.getloli.com/get/@demo?theme=rule34"/><a>
 </p>
 
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=MeIzSaiPranav&label=Profile%20views&color=129e00&style=plastic" alt="Matheus-Conzatti" /> </p>
 
 <div>
   <a href="https://github.com/Matheus-Conzatti">
