@@ -9,7 +9,7 @@
   <p align="left"> <img src="https://komarev.com/ghpvc/?username=MeIzSaiPranav&label=Profile%20views&color=129e00&style=plastic" alt="MeIzSaiPranav" /> </p>
 
 
-<img align="center" src="./assets/about.png?raw=true"/>
+<img align="center" src="about.png?raw=true"/>
 
 - 🌱 Estudando com as linguagens C++.
 - 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
@@ -22,7 +22,7 @@
 
 <a href="https://instagram.com/matheus_conzatti/"><img src="https://img.shields.io/badge/Instagram-grey?style=for-the-badge&logo=instagram"/>
   <a href="https://github.com/Matheus-Conzatti/">
-    <img src="https://img.shields.io/github/followers/MeIzSaiPranav?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
+    <img src="https://img.shields.io/github/followers/Matheus-Conzatti?label=GitHub&logo=github&style=for-the-badge&color=blue"/>
   </a>
 <div align="center">
     <img src="https://cultofthepartyparrot.com/parrots/hd/githubparrot.gif" width="25" height="25"/>
@@ -53,23 +53,23 @@
 
 
 <div align="center">
-<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/Handshake.gif" height="33px" /></h3>
+<h3 align="center">Connect With Me!!!<img align="center" src="https://github.com/Matheus-Conzatti/Matheus-Conzatti/blob/main/gifs/Handshake.gif" height="33px" /></h3>
 <center>
  <a href="teteusconzatti@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
 </center>
 </div>    
 
-<a href="https://github.com/MeIzSaiPranav"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeIzSaiPranav&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+<a href="https://github.com/Matheus-Conzatti"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=MeIzSaiPranav&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
 
-<img align="right" alt="cmulay | Read Book" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/multi.gif" width="300" height="300" />
+<img align="right" alt="cmulay | Read Book" src="https://github.com/Matheus-Conzatti/Matheus-Conzatti/blob/main/gifs/multi.gif" width="300" height="300" />
 
 
 
 
 <img align="center" src="./assets/git.png?raw=true"/>
 
-![MeIzSaiPranav's GitHub stats](https://github-readme-stats.vercel.app/api?username=MeIzSaiPranav&show_icons=true&theme=synthwave)
+![Matheus-Conzatti's GitHub stats](https://github-readme-stats.vercel.app/api?username=Matheus-Conzatti&show_icons=true&theme=synthwave)
 
 <img width="49%" src="https://github-readme-streak-stats.herokuapp.com?user=Matheus-Conzatti&theme=tokyonight"/>
         <img width="99%" src="https://github-profile-trophy.vercel.app/?username=Matheus-Conzatti&row=1&theme=darkhub"/>
