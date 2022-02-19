@@ -14,7 +14,8 @@
 - 🔭 Estudando com as linguagens C++.
 - 🌱 Em busca de mais conhecimentos.
 - 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
-- 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL .
+- 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL.
+
 -->
 
 <p align="center">
