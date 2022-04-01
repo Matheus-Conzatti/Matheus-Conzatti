@@ -11,7 +11,7 @@
 
 # About Me:
 
-- 🔭 Estudando com as linguagens C++.
+- 🔭 Estudando com as linguagens C++, C e Python.
 - 🌱 Em busca de mais conhecimentos.
 - 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL.
