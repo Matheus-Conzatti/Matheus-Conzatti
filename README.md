@@ -16,8 +16,6 @@
 - 👯 Estou procurando colaborar em como o desenvolvimento de codigos, onde pessoas estão com dificuldades.
 - 🧠 Já tenho conhecimento em Python, Java, Html, PHP, Android, CSS, C e MYSQL.
 
--->
-
 <p align="center">
 <img src="https://readme-typing-svg.herokuapp.com/?color=F77247&width=420&lines=+Computer+engineer+passionate+for+technology%E2%9C%8C%EF%B8%8F;Student+at+PUCPR%E2%9D%A4%EF%B8%8F">
 </p>
