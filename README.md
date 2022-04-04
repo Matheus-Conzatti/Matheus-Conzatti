@@ -54,16 +54,7 @@
     <img src="https://cultofthepartyparrot.com/parrots/hd/illuminatiparrot.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/hypnoparrotdark.gif" width="25" height="25"/>
     <img src="https://cultofthepartyparrot.com/parrots/hd/mustacheparrot.gif" width="25" height="25"/>
-</div>
-
-
-<div align="center">
-<h3 align="center">Connect With Me!!<img align="center" src="https://github.com/MeIzSaiPranav/MeIzSaiPranav/blob/main/gifs/Handshake.gif" height="33px" /></h3>
-<center>
- <a href="teteusconzatti@gmail.com"><img src="https://img.icons8.com/fluent/50/000000/gmail--v2.png"></a>
-</center>
-</center>
-</div>    
+</div> 
 
 <a href="https://github.com/MeIzSaiPranav"><img alt="Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=Matheus-Conzatti&bg_color=20222b&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
 
